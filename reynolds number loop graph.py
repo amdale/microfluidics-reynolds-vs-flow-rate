@@ -6,7 +6,7 @@ Outputs line graph of flow rate vs Re and saves as .png
 
 Created on Wed May  8 20:53:49 2024
 
-@author: pyatr
+@author: amdale
 """
 
 # Imports # 
